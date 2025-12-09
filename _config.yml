@@ -1,7 +1,7 @@
 # Simple Jekyll configuration for GitHub Pages
-title: "Yibo Peng (彭艺博)"
-description: "Yibo Peng's academic website. Research on AI agents, code generation, and multimodal reasoning."
-url: https://pppyb.github.io
+title: "Xiwen Min"
+description: "Xiwen's academic website. Building systems for ML workloads."
+url: https://xiwenm.github.io
 baseurl: ""
 
 # GitHub Pages settings
